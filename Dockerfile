@@ -1,7 +1,7 @@
 FROM golang:1-alpine AS build
 
-ARG VERSION="0.14.1"
-ARG CHECKSUM="61815e796e746e79dba592f3763cb49af30e170c229f6edf405ae5b7a0e5bbac"
+ARG VERSION="0.15.0"
+ARG CHECKSUM="c430888992a1cacac68a44ddc775e8cf28b786dd28ca69de5e67901c9acabb1b"
 
 ADD https://github.com/prometheus/graphite_exporter/archive/v$VERSION.tar.gz /tmp/graphite_exporter.tar.gz
 
