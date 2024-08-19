@@ -20,10 +20,10 @@
 
 Available on Docker Hub as [`docker.io/ricardbejarano/graphite_exporter`](https://hub.docker.com/r/ricardbejarano/graphite_exporter):
 
-- [`0.15.1`, `latest` *(Dockerfile)*](Dockerfile)
+- [`0.15.2`, `latest` *(Dockerfile)*](Dockerfile)
 
 ### RedHat Quay
 
 Available on RedHat Quay as [`quay.io/ricardbejarano/graphite_exporter`](https://quay.io/repository/ricardbejarano/graphite_exporter):
 
-- [`0.15.1`, `latest` *(Dockerfile)*](Dockerfile)
+- [`0.15.2`, `latest` *(Dockerfile)*](Dockerfile)
